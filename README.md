@@ -173,5 +173,3 @@ This project is licensed under the [MIT License](LICENSE).
 
 #### **Contact**
 For queries or suggestions, feel free to reach out via email or create an issue in the repository.
-
-Let me know if you need further refinements or additional details!
